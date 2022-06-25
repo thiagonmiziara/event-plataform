@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
-import { Event } from "../pages/Event/Event";
-import { Subscribe } from "../pages/Subscribe/Subscribe";
+import { Event } from "../pages/Event";
+import { Subscribe } from "../pages/Subscribe";
 
 export function Router() {
   return (
