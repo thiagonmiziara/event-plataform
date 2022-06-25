@@ -2,6 +2,7 @@ import { useState, FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
 import { useCreateSubscriberMutation } from "../../graphql/generated";
 import Logo from "../../components/Logo";
+import CodeImg from "../../assets/code.png";
 
 export function Subscribe() {
   const navigate = useNavigate();
@@ -76,7 +77,7 @@ export function Subscribe() {
       </div>
 
       <img
-        src='/src/assets/code.png'
+        src={CodeImg}
         alt='Imagem representando uma tela de computador com o vscode aberto com códigos em tela'
         className='mt-10'
       />
