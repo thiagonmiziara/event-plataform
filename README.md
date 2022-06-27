@@ -27,7 +27,7 @@ Projeto é uma plataforma de eventos
 ## :sparkles: Funcionalidades
 
 :heavy_check_mark: Cadastro de nome e email;\
-:heavy_check_mark: Aulas vindo da integração com graphcms;
+:heavy_check_mark: Aulas vindo da integração com graphcms;\
 :heavy_check_mark: Deploy na Vercel;\
 
 ## :rocket: Tecnologias
